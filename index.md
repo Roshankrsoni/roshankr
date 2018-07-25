@@ -47,8 +47,7 @@ button:hover, a:hover {
 </style>
 </head>
 <body>
-
-<h2 style="text-align:center">Roshan Kr Soni</h2>
+ 
 
 <div class="card">
   <img src="https://yt3.ggpht.com/a-/ACSszfGMcjEv8bKfrBvJHhYV_XvvvbsXzwDnCxjuEA=s900-mo-c-c0xffffffff-rj-k-no" alt="John" style="width:100%">
@@ -60,7 +59,7 @@ button:hover, a:hover {
     <a href="https://linkedin.com/in/roshankrsoni"><i class="fa fa-linkedin"></i></a>  
     <a href="https://facebook.com/roshankrsoni"><i class="fa fa-facebook"></i></a> 
  </div>
- <p><a href="http://roshankrsoni.in"><button>Contact</button></p>
+ <p><a href="http://roshankrsoni.in"><button>Contact</button></a></p>
 </div>
 
 </body>
