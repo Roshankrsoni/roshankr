@@ -6,7 +6,7 @@
 <style>
   
   body {
-    background: #4CAF50;
+    background: #4CAF50!important;
 }
   
 .card {
