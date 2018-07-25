@@ -1,11 +1,5 @@
 
-Hello, I am
-Roshan Kr Soni
-A Passionate web Developer & Designer from Ranchi Jharkhand 
-<b>http://roshankrsoni.in <b>
 
-
-<!DOCTYPE html>
 <html>
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -49,20 +43,19 @@ button:hover, a:hover {
 </head>
 <body>
 
-<h2 style="text-align:center">User Profile Card</h2>
+<h2 style="text-align:center">Roshan Kr Soni</h2>
 
 <div class="card">
-  <img src="/w3images/team2.jpg" alt="John" style="width:100%">
-  <h1>John Doe</h1>
-  <p class="title">CEO & Founder, Example</p>
-  <p>Harvard University</p>
-  <div style="margin: 24px 0;">
-    <a href="#"><i class="fa fa-dribbble"></i></a> 
-    <a href="#"><i class="fa fa-twitter"></i></a>  
-    <a href="#"><i class="fa fa-linkedin"></i></a>  
-    <a href="#"><i class="fa fa-facebook"></i></a> 
+  <img src="https://yt3.ggpht.com/a-/ACSszfGMcjEv8bKfrBvJHhYV_XvvvbsXzwDnCxjuEA=s900-mo-c-c0xffffffff-rj-k-no" alt="John" style="width:100%">
+  <h1>Roshan Kr Soni</h1>
+  <p class="title">Web Developer & Designer </p>
+  <p>SBS College Ranchi</p>
+  <div style="margin: 24px 0;"> 
+    <a href="https://twitter.com/roshankrsoni"><i class="fa fa-twitter"></i></a>  
+    <a href="https://linkedin.com/in/roshankrsoni"><i class="fa fa-linkedin"></i></a>  
+    <a href="https://facebook.com/roshankrsoni"><i class="fa fa-facebook"></i></a> 
  </div>
- <p><button>Contact</button></p>
+ <p><a href="http://roshankrsoni.in"><button>Contact</button></p>
 </div>
 
 </body>
