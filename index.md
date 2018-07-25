@@ -4,9 +4,15 @@
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
+  
+  body {
+    background: #4CAF50;
+}
+  
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
+ background: white;
   margin: auto;
   text-align: center;
   font-family: arial;
@@ -50,7 +56,7 @@ button:hover, a:hover {
  
 
 <div class="card">
-  <img src="https://yt3.ggpht.com/a-/ACSszfGMcjEv8bKfrBvJHhYV_XvvvbsXzwDnCxjuEA=s900-mo-c-c0xffffffff-rj-k-no" alt="John" style="width:100%">
+  <img src="https://yt3.ggpht.com/a-/ACSszfGMcjEv8bKfrBvJHhYV_XvvvbsXzwDnCxjuEA=s900-mo-c-c0xffffffff-rj-k-no" alt="Roshan" style="width:100%">
   <h1>Roshan Kr Soni</h1>
   <p class="title">Web Developer & Designer </p>
   <p>SBS College Ranchi</p>
