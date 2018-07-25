@@ -12,6 +12,11 @@
   font-family: arial;
 }
 
+.markdown-body>*:first-child {
+    display: none!important;
+}
+
+
 .title {
   color: grey;
   font-size: 18px;
